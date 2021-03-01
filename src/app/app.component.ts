@@ -6,5 +6,23 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-test';
+  columns = [
+    {
+      name: "Greeting",
+      prop: "name"
+    },
+    {
+      prop: "details"
+    }
+  ];
+  rows = [
+    {
+      name: "I am",
+      details: "Angular"
+    },
+    {
+      name: "Hello",
+      details: "Angular"
+    }
+  ];
 }
