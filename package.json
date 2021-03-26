@@ -18,10 +18,10 @@
     "@angular/platform-browser": "~11.1.0",
     "@angular/platform-browser-dynamic": "~11.1.0",
     "@angular/router": "~11.1.0",
-    "@revolist/angular-datagrid": "^2.9.81",
+    "@revolist/angular-datagrid": "^3.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
-    "zone.js": "~0.11.3"
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1101.1",
